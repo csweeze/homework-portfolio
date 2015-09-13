@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+	font-family: Garamond;
+	background-color: #FFE;
+}
+
+
+.mainheader {
+	font-family: Garamond, sans-serif;
+	text-transform: uppercase;
+}
+
+img {
+	height: 30%;
+	width: 30%;
+}
+
+p {
+	font-style: italic;
+	text-align: center;
+}
+
+ul {
+	display: inline;
+	font-family: Garamond;
+}
